@@ -29,7 +29,7 @@ Install Library
     
         # install matplotlib 
   
-    c           conda install -c conda-forge matplotlib
+                conda install -c conda-forge matplotlib
     
 	# install scikit-learn  
   
