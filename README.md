@@ -18,18 +18,18 @@ Install Library
   
 		conda install -c conda-forge tensorflow-gpu=1.10.0 (for gpu)
           		
-  # install keras vs 2.2.2
+        # install keras vs 2.2.2
   
-    conda install -c conda-forge keras-gpu=2.2.2 (for gpu)
+                conda install -c conda-forge keras-gpu=2.2.2 (for gpu)
     
 
 	# install opencv
   
-    conda install -c conda-forge opencv
+                conda install -c conda-forge opencv
     
-  # install matplotlib 
+        # install matplotlib 
   
-    conda install -c conda-forge matplotlib
+    c           conda install -c conda-forge matplotlib
     
 	# install scikit-learn  
   
